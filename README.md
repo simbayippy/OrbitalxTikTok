@@ -3,6 +3,8 @@ This is an implementation of an API gateway, built using cloudwego's Hertz and K
 
 In addition to completing the main assignment, the additional assignment has also been worked on and fulfilled. This repository contains the work as well as benchmark results of the API Gateway.
 
+Read our full documentation [here](https://app.gitbook.com/invite/8IXM0EaVmmOOKkSuxBlD/lR7AwN5i6tDFvZwgqKWN)
+
 ### Prerequisites
 * Golang version 1.14 or newer.
 * A proper GOPATH environment.
